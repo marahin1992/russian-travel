@@ -1,0 +1,13 @@
+.footer__coopyright {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0;
+}
+
+@media all and (max-width: 767px) {
+  .footer__coopyright {
+    line-height: 14px;
+  }
+}

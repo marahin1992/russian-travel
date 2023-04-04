@@ -1,0 +1,14 @@
+.place__paragpaph {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  margin: 0;
+  width: 100%;
+}
+
+@media all and (max-width: 1023px) {
+  .place__paragpaph {
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,11 @@
+.place__container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 26px;
+}
+
+@media all and (max-width: 1023px) {
+  .place__container {
+    row-gap: 25px;
+  }
+}
