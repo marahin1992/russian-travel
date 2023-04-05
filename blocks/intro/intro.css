@@ -2,6 +2,19 @@
   display: flex;
   flex-direction: column;  
   width: 100%;
-  max-width: 984px;
-  
+  max-width: calc(984px + (48px*2));
+  padding: 0 48px;
+  box-sizing: border-box;  
+}
+
+@media all and (max-width: 1023px) {
+  .intro {
+    padding: 0 24px;  
+  }
+}
+
+@media all and (max-width: 767px) {
+  .intro {
+    padding: 0 16px;  
+  }
 }

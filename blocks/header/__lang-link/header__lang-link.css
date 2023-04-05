@@ -11,11 +11,11 @@
 
 .header__lang-link:hover {
   opacity: 0.8;
-  text-decoration: underline;  
 }
 
 @media all and (max-width: 767px) {
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;
+}
 }

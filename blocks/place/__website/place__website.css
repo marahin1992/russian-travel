@@ -5,3 +5,9 @@
   align-items: baseline;
   gap: 10px;
 }
+
+@media all and (max-width: 767px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}

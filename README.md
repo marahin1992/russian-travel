@@ -18,7 +18,7 @@
 
 **GITHUB**
 
-* [Ссылка на проект в GitHub](https://github.com/marahin1992/russian-travel.git)
+* [Ссылка на проект в GitHub Pages](https://marahin1992.github.io/russian-travel/index.html)
 ____________________________________________________
 
 **Figma**

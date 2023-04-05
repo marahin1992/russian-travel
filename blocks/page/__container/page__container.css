@@ -3,18 +3,4 @@
   min-width: 320px;
   width: 100%;
   box-sizing: border-box;
-  padding: 0 48px;
-
-}
-
-@media all and (max-width: 1023px) {
-  .page__container {
-    padding: 0 24px;
-  }
-}
-
-@media all and (max-width: 767px) {
-  .page__container {
-    padding: 0 16px;
-  }  
 }

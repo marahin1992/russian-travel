@@ -55,8 +55,6 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__coopyright/footer__coopyright.css);
 
-@import url(..);
-@import url(..);
-@import url(..);
-@import url(..);
+/*modificators*/
+@import url(../blocks/header/__lang-link/_checked/header__lang-link_checked.css);
 
